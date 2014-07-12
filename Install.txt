@@ -1,0 +1,14 @@
+Version 1.0
+Si vous voulez modifier la table tchat suivez les instrucsion.
+init.php -->> 2 
+('mysql:host=localhost;dbname=test', 'root', '')
+host= IP DATABASE
+dbname= NAME DATABASE
+'root' = USERNAME
+'' = PASSWORD USERNAME
+
+MODIFIER la ligne 3 dans tchat.php
+aprers FROM il y a tchat modifier le si vous voulez.
+
+MODIFIER la ligne 4 dans tchat.php
+aprers ('INSERT INTO') il y a tchat modifier le si vous voulez.
